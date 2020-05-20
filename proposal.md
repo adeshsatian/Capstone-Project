@@ -1,8 +1,8 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Guanrong Fu
+Adesh Singh
 
-January 23, 2018
+may 20, 2020
 
 ## Proposal
 
