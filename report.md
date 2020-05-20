@@ -1,9 +1,8 @@
 # Machine Learning Engineer Nanodegree
 
 ## Capstone Project
-Guanrong Fu  
-January 25, 2018
-
+Adesh Singh  
+May 20, 2020
 ## I. Definition
 
 ### Project Overview
